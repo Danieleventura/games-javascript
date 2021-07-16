@@ -4,5 +4,3 @@ Jogos desenvolvidos para o aprendizado de Javascript
 - Game Flappy Bird.
 - Game Codi Memory.
 - Game Dino.
-
-
