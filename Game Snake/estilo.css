@@ -1,0 +1,11 @@
+
+#nomeJogo{
+    font-family: 'Righteous', cursive;
+    color: #668C4A;
+    margin-left: 70px;
+}
+
+#canvas{
+    border: 3px solid black;
+    
+}
